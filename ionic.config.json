@@ -1,0 +1,7 @@
+{
+  "name": "modern-input",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
